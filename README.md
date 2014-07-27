@@ -1,7 +1,7 @@
 JSONPML2DOT
 ===========
 
-Generates a [DOT](http://www.graphviz.org/) file using a BigML json pml model as input
+Generates a [DOT](http://www.graphviz.org/) file using a BigML [JSON PML](https://github.com/bigmlcom/json-pml) model as input
 
 1. Install bigml:
 
