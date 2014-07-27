@@ -27,13 +27,13 @@ Generates a [DOT](http://www.graphviz.org/) file using a BigML json pml model as
 
         ./jsonpml2dot.py --model public/model/53b2f21ec8db635905000d33 | dot -Tpng > heartdisease.png
 
-        <img src="https://raw.github.com/aficionado/jsonpml2dot/master/images/heartdisease.png" alt="tree model">
+<img src="https://raw.github.com/aficionado/jsonpml2dot/master/images/heartdisease.png" alt="tree model">
 
 6. Generating a png from shared model
 
         ./jsonpml2dot.py --model shared/model/vZ88ZkoIK2faSqDq7Wod7hFQxe5 | dot -Tpng > credit.png
 
-        <img src="https://raw.github.com/aficionado/jsonpml2dot/master/images/credit.png" alt="tree model">
+<img src="https://raw.github.com/aficionado/jsonpml2dot/master/images/credit.png" alt="tree model">
 
 
 
