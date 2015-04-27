@@ -28,7 +28,6 @@ Generates a [DOT](http://www.graphviz.org/) file using a BigML [JSON PML](https:
         ./jsonpml2dot.py --model public/model/53b2f21ec8db635905000d33 | dot -Tpng > heartdisease.png
 
 <img src="https://raw.github.com/aficionado/jsonpml2dot/master/images/heartdisease.png" alt="tree model">
-[BigML's compact and interactive represenation](https://bigml.com/user/ashikiar/gallery/model/53b2f21ec8db635905000d33)
 
 
 6. Generating a png from shared model
